@@ -16,7 +16,7 @@ body {
 .item{
   font-size: 1.5em;
   margin-top: 7%;
-  padding: 0.03rem 25%;
+  padding: 0.03rem 15%;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .instruction{
@@ -33,7 +33,7 @@ body {
 @media only screen and (max-width: 600px) {
   .item{
    font-size: 20px;
-   
+   padding: 0.03rem 5% ;
   
   }
 
