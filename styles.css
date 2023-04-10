@@ -11,8 +11,7 @@ body {
 }
 .main{
   background-image: url("game.jpg");
-  background-repeat: no-repeat;
-background-size: 100% 100%;
+ 
 }
 .item{
   font-size: 1.5em;
